@@ -1,12 +1,20 @@
 # tinDog-website
 Bootstrap, HTML, CSS, Responsive website
 
-This is a sigle page responsive website made by using HTML, CSS, and Bootstrap.
-Bootstrap elements used are:
-  -> buttons
-  -> carousel
-  -> container-fluid
-  -> navbar-toggler
-  -> card .. etc.
+This is a sigle page responsive website template made by using HTML, CSS, and Bootstrap.
+# Bootstrap elements used are:
+  * buttons
+  * carousel
+  * container-fluid
+  * navbar-toggler
+  * card
+  * grid .. etc.
   
-  link: https://tindog-sheetal.netlify.app/
+ ## Live Demo Link
+   Link: https://tindog-sheetal.netlify.app/
+   
+## Website Gif
+![This is website image](https://github.com/sheetalMehta7/tinDog-website/blob/main/site-gif.gif)
+
+## Mobile-view
+![This is website image](https://github.com/sheetalMehta7/tinDog-website/blob/main/mobile-view.png)
