@@ -1,4 +1,4 @@
-# tinDog-website
+# tinDog website
 Bootstrap, HTML, CSS, Responsive website
 
 This is a sigle page responsive website template made by using HTML, CSS, and Bootstrap.
