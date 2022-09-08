@@ -2,6 +2,8 @@
 Bootstrap, HTML, CSS, Responsive website
 
 This is a sigle page responsive website template made by using HTML, CSS, and Bootstrap.
+Also used Canva for Designing elements used in the site.
+
 # Bootstrap elements used are:
   * buttons
   * carousel
